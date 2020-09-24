@@ -89,4 +89,4 @@ plt.legend()
 #plt.plot(x,phi(x,0),linestyle = "--",color = "b",label = "Pulso analítico")
 #plt.plot(x,PSI(x,0),color = "r", label="Pulso numérico")
 #plt.grid(True,linestyle=":")
-#plt.legend() ########## comparación analítico/numérico a tiempo 0
+#plt.legend() ########## comparación analítico/numérico a tiempo 0.
